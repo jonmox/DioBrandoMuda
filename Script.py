@@ -25,7 +25,7 @@ THESE DO NOT HELP YOU IN CONTROLLING ME."""
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>YOU CANNOT CREATE ME FOOL!:</b>
     """
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    MANUALFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
 
