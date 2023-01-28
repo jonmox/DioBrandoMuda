@@ -49,7 +49,7 @@ THESE DO NOT HELP YOU IN CONTROLLING ME."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/GreyMatter_Owner)</code>
+<code>[Button Text](buttonurl:https://t.me/Animeheaven24x7)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
