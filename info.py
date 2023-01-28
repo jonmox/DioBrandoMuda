@@ -80,7 +80,7 @@ DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "https://t.me/download_from_search_zone_bot"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Subscribe"
-CAPTION_BUTTON_URL = "https://youtube.com/@GreyMattersYat"
+CAPTION_BUTTON = "Join"
+CAPTION_BUTTON_URL = "https://t.me/animeheaven24x7"
 
    # Auto Delete For Bot Sending Files #
